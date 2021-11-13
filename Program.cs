@@ -65,7 +65,8 @@ namespace TimeKeeping
         }
     }
 }
-
+/*           OUTPUT                */
+/*
 || Employee Time Keeping System ||
 TODAY's DATE: 13 Nov 2021
 To log your time-in enter your employee id: 123
@@ -80,4 +81,4 @@ Your total undertime hours/minutes is: 01:00:00
 
 C:\Program Files\dotnet\dotnet.exe (process 9060) exited with code 0.
 To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
-Press any key to close this window . . .
+Press any key to close this window . . . */
